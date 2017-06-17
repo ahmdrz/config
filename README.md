@@ -1,4 +1,4 @@
-# ahmdrz/config
+## ahmdrz/config
 > In-App simple configuration manager with AES encryption for Go applications.
 
 ## Usage
@@ -31,5 +31,5 @@
 
 ## TODO
 
-[ ] Create another new method for RSA with public/private key.
-[ ] Using alexflint/go-memdump instead of GOB encoding method.
+- [ ] Create another New method for RSA with public/private key.
+- [ ] Using alexflint/go-memdump instead of GOB encoding method.
