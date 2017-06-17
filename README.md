@@ -17,7 +17,8 @@
     	panic(err)
     }
 
-    // Now take a look to your .config or %APPDATA% , you will see a directory with your application name.
+    // Now take a look to your .config or %APPDATA% ...
+    // you will see a directory with your application name.
 
     // It's time to load our encrypted configuration into testStruct
     err = cfg.Load("test.cfg", &testStruct)
